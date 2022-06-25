@@ -1,0 +1,68 @@
+.back{
+    background-color: black;
+    button{
+        color: rgb(167, 167, 167);
+    }
+    ul{
+        display: block;
+        margin-top: 25px;
+        li{
+            display: inline-block;
+            a{
+                text-decoration: none;
+                color: white;
+                width: 80px;
+                padding: 0 15px;
+            }
+        }
+    }
+    .rov{
+        margin-top: 80px;
+        p{
+            color: rgb(167, 167, 167);
+        }
+        .col-7{
+            text-align: center;
+            img{
+                width: 50%;
+                border-radius: 50%;
+            }
+        }
+    }
+    .kard{
+        margin-top: 70px;
+        .card{
+            border-radius: 15px;
+            p{
+                font-size: 50px;
+                color: white;
+            }
+        }
+
+    }
+    .main{
+        margin-top: 80px;
+        .rasm{
+            text-align: center;
+            img{
+                margin-left: 150px;
+                width: 80%;
+            }
+        }
+    }
+    .pt-5{
+        .card{
+            background-color: black;
+        }
+    }
+    .swiffy-slider{
+        margin-left: 300px;
+        ul{
+            
+            .card{
+                background-color: black;
+                text-align: center;
+            }
+        }
+    }
+}

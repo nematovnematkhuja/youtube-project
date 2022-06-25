@@ -1,0 +1,80 @@
+.back {
+  background-color: black;
+}
+
+.back button {
+  color: #a7a7a7;
+}
+
+.back ul {
+  display: block;
+  margin-top: 25px;
+}
+
+.back ul li {
+  display: inline-block;
+}
+
+.back ul li a {
+  text-decoration: none;
+  color: white;
+  width: 80px;
+  padding: 0 15px;
+}
+
+.back .rov {
+  margin-top: 80px;
+}
+
+.back .rov p {
+  color: #a7a7a7;
+}
+
+.back .rov .col-7 {
+  text-align: center;
+}
+
+.back .rov .col-7 img {
+  width: 50%;
+  border-radius: 50%;
+}
+
+.back .kard {
+  margin-top: 70px;
+}
+
+.back .kard .card {
+  border-radius: 15px;
+}
+
+.back .kard .card p {
+  font-size: 50px;
+  color: white;
+}
+
+.back .main {
+  margin-top: 80px;
+}
+
+.back .main .rasm {
+  text-align: center;
+}
+
+.back .main .rasm img {
+  margin-left: 150px;
+  width: 80%;
+}
+
+.back .pt-5 .card {
+  background-color: black;
+}
+
+.back .swiffy-slider {
+  margin-left: 300px;
+}
+
+.back .swiffy-slider ul .card {
+  background-color: black;
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */
